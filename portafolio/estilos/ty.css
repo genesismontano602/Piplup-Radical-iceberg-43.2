@@ -1,0 +1,29 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body{
+ font-family:Arial, sans-condensed ; 
+ background-image:url(*../img/color.jpg/*)black;
+ color: white;
+}
+
+header{
+	background:color(white) ;
+	padding: 30px;
+	text-align:center ;
+	border-bottom: 2px solid white;
+	background-size:cover;
+ background-position:cente
+}
+
+header h1{
+	font-size: 50px
+}
+
+.perfil{
+
+}
+

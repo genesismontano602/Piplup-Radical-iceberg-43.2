@@ -1,0 +1,12 @@
+body{
+	background: url("../img/fancy-cushion.PNG");
+	fount-family: veredana;
+}
+
+header,main,footer{
+	background: white;
+	width:70%;
+	margin:10px auto;
+	padding:15px;
+	border-radius:20px;
+}

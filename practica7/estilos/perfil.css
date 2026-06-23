@@ -1,0 +1,82 @@
+*{
+	padding:0;
+    margin:0;
+    box-sizing: boder-box;
+}
+
+body{
+	background:turquoise;
+	fount-family:*open Sans Condensed;
+}
+.contenedor{
+	background:blue ;
+	width: 70%;
+	background: skyblue;
+	margin:0 auto;
+
+header{
+ width: 100%;
+ height: 400px;
+ background:url(*..img/florazul.jpg*)black;
+ background-size:cover;
+ background-position:center;
+}
+
+}
+header{
+	width:100%;
+	background:skyblue;
+	height:300px;
+}
+/*Aqui empieza el contenido principal*/
+main.perfil{
+	width:150px;
+	height:150px;
+	background;
+}
+
+main{
+	background:white;
+	width: 100%;
+	padding: 20px;
+
+}
+
+main .perfil{
+	background:gray;
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+	margin-top:-100px;
+	border:5px solid white;
+}
+main .perfil img{
+	width: 100%;
+	border-radius: 100%;
+}
+
+/*Texto*/
+
+main .divtexto{
+	width:100%;
+	height: 200px;
+}
+main .h2{
+	font-size:30px ;
+	margin-bottom: 10px;
+}
+main .text p{
+	font-size:20px ;
+	/*fount-weigtht: bolder;*/
+}
+
+/*Footer*/
+footer{
+	background:black ;
+	padding: 30px;
+}
+foooter p{
+	text-align: center ;
+	color:white;
+}
+
